@@ -1,0 +1,11 @@
+name: fb15
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib>=3.7
+  - ipykernel
+  - jupyterla
+  - math
+  - typing
